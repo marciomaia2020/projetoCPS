@@ -1,0 +1,17 @@
+body {
+    max-width: auto;
+    margin: 0 auto;
+    background-image: url("marcio.png") !important;
+    font-family: 'Courier New', Courier, monospace;
+    /*
+    background-repeat: repeat;
+    background-repeat: repeat-y;
+    background-position: right center;
+    background-color: #cccccc;
+    */
+  }
+  footer{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 100px;
+    text-align: right;
+  }
